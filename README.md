@@ -1,4 +1,3 @@
-# poisson-modeling
 # Poisson Loan Default Modeling
 
 ## Overview
